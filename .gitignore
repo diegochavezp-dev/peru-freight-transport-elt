@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datos originales del proyecto
+data/raw/*
+
+# Mantener la carpeta raw en Git
+!data/raw/.gitkeep
